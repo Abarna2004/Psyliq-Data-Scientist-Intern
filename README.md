@@ -1,9 +1,5 @@
 # Psyliq-Data-Scientist-Intern-Projects
-# Projects Completed During Internship at Psyliq
 
-This repository contains three projects completed during my internship at Psyliq. The projects focus on real-world applications of machine learning and deep learning techniques.
-
----
 
 ## 1. **Stock Price Prediction**
 
