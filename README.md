@@ -85,9 +85,6 @@ This project recognizes handwritten digits using a neural network and provides a
 - Python 3.7 or above
 - Necessary datasets (provided in the respective project directories)
 
-## License
-This repository is licensed under the MIT License. See `LICENSE` for more details.
 
 ---
 
-Feel free to use or contribute to these projects!
